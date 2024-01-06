@@ -1,0 +1,86 @@
+.body{
+background-color: #000000;
+
+
+
+
+}
+.head{
+    text-align: center;
+    background-color: #3b3939;
+    color: #ffffff;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+.red-1{
+    background-color: #ff0000;
+   color: #ffffff;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.red-2{
+    background-color: #ff1a1a;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-3{
+    background-color: #ff3333;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-4{
+    background-color: #ff4d4d;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-5{
+    background-color: #ff6666;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-6{
+    background-color: #ff8080;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.green{
+    background-color:#44ff44;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-1{
+    background-color:#0080ff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-2{
+    background-color:#1a8cff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-3{
+    background-color:#3399ff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-4{
+    background-color:#4da6ff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-5{
+    background-color:#66b3ff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-6{
+    background-color:#80bfff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue-7{
+    background-color:#99ccff;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
